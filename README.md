@@ -10,7 +10,7 @@ I am a B.Tech Computer Science student, trying to maintain a 9+ CGPA, currently 
 
 
 ### CODING ACTIVITY
-![Kalyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyaniicoree&show_icons=true&theme=transparent&hide_border=true)
+![Kalyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalyanicore&show_icons=true&theme=transparent&hide_border=true)
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=kalyanicore&theme=light)
 
 
