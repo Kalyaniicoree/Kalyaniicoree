@@ -1,5 +1,5 @@
 ## Hello, This is Kalyani !
-I am a B.Tech Computer Science student, trying to maintain a 9+ CGPA, currently *9.6*. I am a coding enthusiast, more than the coding part, I like the logic and maths behind every solution to a problem. currently focusing on **DATA STRUCTURES AND ALGORITHMS** and **BACKEND SYSTEMS**.
+I am a B.Tech Computer Science student, trying to maintain a 9+ CGPA, currently *9.6*. I am a coding enthusiast, more than the coding part, I like the logic and maths behind every solution to a problem. Currently focusing on **DATA STRUCTURES AND ALGORITHMS** and **BACKEND SYSTEMS**.
 
 
 ### TECH STACK
