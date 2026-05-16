@@ -14,6 +14,7 @@ I am a B.Tech Computer Science student, trying to maintain a 9+ CGPA, currently 
 
 [![Kalyani's Leetcode Stats](https://leetcard.jacoblin.cool/kalyanicore?theme=light&font=Assistant)](https://leetcode.com/u/kalyanicore/)
 [![Kalyani's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kalyanicore&theme=radical)](https://codeforces.com/profile/kalyanicore)
+[![Kalyani's CodeChef Stats](https://codechef-api.vercel.app/kalyaniiicoree)](https://www.codechef.com/users/kalyaniiicoree)
 
 ### CURRENT STATUS
 - Practising **C++** for competitive programming and logic-heavy tasks.
