@@ -11,8 +11,6 @@ I am a B.Tech Computer Science student, trying to maintain a 9+ CGPA, currently 
 
 ### CODING ACTIVITY
 ### 🔗 My Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kalyanicore/)
-
 
 [![Kalyani's Leetcode Stats](https://leetcard.jacoblin.cool/kalyanicore?theme=light&font=Assistant)](https://leetcode.com/u/kalyanicore/)
 [![Kalyani's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kalyanicore&theme=radical)](https://codeforces.com/profile/kalyanicore)
